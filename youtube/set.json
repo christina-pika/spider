@@ -1,0 +1,8 @@
+{
+    "csv_file_path": "path/to/your/csv_file.csv",
+    "json_file_path": "path/to/your/json_file.json", 
+    "video_download_command": "yt-dlp --format-sort res {url} --concurrent-fragments 5",
+    "video_path": ""
+  }
+  
+  
