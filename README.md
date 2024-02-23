@@ -1,4 +1,4 @@
-## Instructions for Running the Video Download Script
+## Instructions for Running the Youtube Video Download Script From CSV file
 
 To run the video download script, please follow these steps:
 
