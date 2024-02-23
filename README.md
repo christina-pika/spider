@@ -2,6 +2,12 @@
 
 To run the video download script, please follow these steps:
 
+0. **Ensure yt-dlp and ffmpeg are installed** on my system I install the environment by running the following command:
+   ```
+   python3 -m pip install -U yt-dlp ffmpeg
+   ```
+   For more details on the installation, refer to [yt-dlp installation guide](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation).
+
 1. **Pull this repository** to your local machine using the command:
    ```
    git pull <repository-url>
